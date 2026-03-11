@@ -12,3 +12,11 @@ def menor(A, B, C):
 # Función que retorna el mayor de tres valores
 def max(A, B, C):
     return max(A, B, C)
+    
+ # Función que retorna el promedio de dos valores
+def mean(A, B):
+    return mean(A, B)
+
+# Función que retorna el sum de dos valores
+def sum(A, B):
+    return Sum(A, B)
